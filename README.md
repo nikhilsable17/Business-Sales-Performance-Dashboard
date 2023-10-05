@@ -1,11 +1,11 @@
 
-# Adventure Works Report
+# ✨ Adventure Works Report ✨
 
 Welcome to the AdventureWorks Report, a fully PowerBI-based project helping a retail company gain actionable insights into its sales data.
 
 
 
-## Main Aim
+## Project Objective ✨
 
 The project mainly focuses on leveraging Power BI's capabilities to transform raw sales data into visually appealing and interactive reports and dashboards and help businesses in the following ways: -
 
@@ -24,7 +24,7 @@ The project mainly focuses on leveraging Power BI's capabilities to transform ra
 • Scalability
 
 • Competitive Advantage
-## Expected Outcomes
+## Expected Outcomes 
 
 • An interactive Sales Performance Analysis Dashboard accessible to authorized users.
 
@@ -33,9 +33,9 @@ The project mainly focuses on leveraging Power BI's capabilities to transform ra
 • Increased sales efficiency and revenue growth through data-driven strategies.
 
 • Enhanced data literacy among team members.
-## Features
+## Features 👨‍💻
 
-• **Data Collection and Preparation**
+• **Data Collection and Preparation** ✍️
 
     ↦ Data Sourcing
 
@@ -57,17 +57,17 @@ The project mainly focuses on leveraging Power BI's capabilities to transform ra
 
     ↦ Configuration between report & trace filters
 
-• **Data Analysis Expression (DAX)**
+• **Data Analysis Expression (DAX)** 📉
 
     ↦ Calculated Columns & Measures
 
     ↦ Row & Filter Context
 
-    ↦ Different DAX Functions (math, logic,text, date/time, filters, etc.)
+    ↦ Different DAX Functions (math, logic, text, date/time, filters, etc.)
 
     ↦ Nested Functions, Iterators & Time intelligence patterns
 
-• **Data Visualization**
+• **Data Visualization** 📈📉
 
     ↦ Visual Design
 
@@ -77,13 +77,13 @@ The project mainly focuses on leveraging Power BI's capabilities to transform ra
     ↦ Dashboard Composition:
         Arranging multiple reports into interactive dashboards for a holistic view.
 
-    ↦ Features like Bookmark, sclicer panels, parameters, tooltips, buttons & report navigation
+    ↦ Features like Bookmark, slicer panels, parameters, tooltips, buttons & report navigation
 
     ↦ Drill through
 
     ↦ Row-level security with user roles
 
-    ↦ Use of Maps for location based scenarios
+    ↦ Use of Maps for location-based scenarios
 
 • **Natural Language Query (Q&A)**
 
@@ -103,7 +103,7 @@ The project mainly focuses on leveraging Power BI's capabilities to transform ra
 
 
 
-## Usage
+## Usage 🪄
 
 • **Business Performance Monitoring:**
 
